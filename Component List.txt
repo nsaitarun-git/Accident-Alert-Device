@@ -1,0 +1,11 @@
+-Arduino Uno R3
+-SIM800L v2 GSM Module
+-GT-U7 GPS Module
+-Passive Buzzer
+-Momentary Push Switch
+-LED
+-330 Ohm Resistor
+-DC Motor
+-5V Relay
+-SSD1331 Oled Display
+-Jumper Cables
